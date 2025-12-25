@@ -70,7 +70,7 @@ void printTicket(Reservation* r) {
         cout << "Error saving ticket to file.\n";
     }
 }
-/* ===================== HASHING ===================== */
+/* ===================== HASHING ==================== */
 struct HashNode {
     int bookingId;
     Reservation* reservation;
