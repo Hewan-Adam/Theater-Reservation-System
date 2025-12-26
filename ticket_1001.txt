@@ -1,0 +1,13 @@
+--------------------------------
+        MOVIE TICKET
+--------------------------------
+Booking ID : 1001
+Name       : we
+Movie      : Avengers: Endgame
+Screen     : 1
+Seat No    : 1
+Seat Type  : Normal
+Price      : 100 Birr
+--------------------------------
+Thank you for booking!
+--------------------------------
