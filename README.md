@@ -3,7 +3,7 @@
  Overview
 The Theatre Reservation System is a C++ console-based application designed to manage movie seat reservations efficiently.  
 It allows customers to book seats and print tickets, while administrators can manage reservations, track income, and view system data.
-The project demonstrates practical usage of multiple data structures in a real-world scenario, making it suitable for **DSA coursework and academic projects.
+The project demonstrates practical usage of multiple data structures in a real-world scenario, making it suitable for DSA coursework and academic projects.
 
 
  Features
