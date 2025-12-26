@@ -5,7 +5,7 @@
 #include <sstream>
 using namespace std;
 
-/* ===================== CONSTANTS ===================== */
+/* ==================== CONSTANTS ===================== */
 #define MAX_SCREENS 3
 #define MAX_SEATS 10
 #define MAX_QUEUE 10
